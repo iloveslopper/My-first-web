@@ -1,0 +1,36 @@
+ /* comentarry* in CSS*/
+/*element selector*/
+
+/*sintaxix selector{
+    property: value;
+}
+*/
+
+/*we start from our first element
+ from inside to outside 
+ with the firt element that we want to style 
+ and then we move to the parent 
+ element and so on until we reach the body element
+ */
+
+ h1{
+    color: rgb(231, 149, 204);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+
+ h2{
+    color: rgb(248, 103, 200);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ p{
+    color: rgb(138, 80, 119);
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ }
